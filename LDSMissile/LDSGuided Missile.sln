@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LDSGuided Missile", "LDSGuided Missile.csproj", "{0D2545B7-80F0-C594-7572-8C7E67ACDA73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LDSGuided Missile.Editor", "LDSGuided Missile.Editor.csproj", "{266A7388-6D23-8CF7-0B1F-E4CD4312EB53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D2545B7-80F0-C594-7572-8C7E67ACDA73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D2545B7-80F0-C594-7572-8C7E67ACDA73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D2545B7-80F0-C594-7572-8C7E67ACDA73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D2545B7-80F0-C594-7572-8C7E67ACDA73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{266A7388-6D23-8CF7-0B1F-E4CD4312EB53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{266A7388-6D23-8CF7-0B1F-E4CD4312EB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{266A7388-6D23-8CF7-0B1F-E4CD4312EB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{266A7388-6D23-8CF7-0B1F-E4CD4312EB53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

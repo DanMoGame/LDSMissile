@@ -1,0 +1,37 @@
+<Shop>
+  <Item>
+    <speed>+2</speed>
+    <rotate>+3</rotate>
+    <model>PlayerUI/PlayerSpin0</model>
+    <price>500</price>
+    <id>0</id>
+  </Item>
+	<Item>
+		<speed>+4</speed>
+		<rotate>+6</rotate>
+		<model>PlayerUI/PlayerSpin1</model>
+		<price>2500</price>
+    <id>1</id>
+	</Item>
+	<Item>
+		<speed>+8</speed>
+		<rotate>+9</rotate>
+		<model>PlayerUI/PlayerSpin2</model>
+		<price>4000</price>
+    <id>2</id>
+	</Item>
+	<Item>
+		<speed>+12</speed>
+		<rotate>+15</rotate>
+		<model>PlayerUI/PlayerSpin3</model>
+		<price>7500</price>
+    <id>3</id>
+	</Item>
+	<Item>
+		<speed>+18</speed>
+		<rotate>+24</rotate>
+		<model>PlayerUI/PlayerSpin4</model>
+		<price>12000</price>
+    <id>4</id>
+	</Item>	
+</Shop>
